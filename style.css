@@ -1,0 +1,15 @@
+.move-section1{
+    position: absolute;
+    overflow: hidden;
+    height: 600px;
+    background: url("https://www.gotit.vn/assets/img/bg_business2x.png");
+    background-size: cover;
+}
+.img-sention1{
+    height: 70px;
+    width: 30px;
+}
+#idbtright{
+    border: 7px;
+
+}
